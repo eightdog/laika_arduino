@@ -19,7 +19,7 @@
           },
           "url": "https://github.com/eightdog/laika_arduino/blob/master/IDE_Board_Manager/laika_boards.zip",
           "archiveFileName": "laika_boards.zip",
-          "checksum": "SHA-256:ec3ff8a1dc96d3ba6f432b9b837a35fd4174a34b3d2927de1d51010e8b94f9f1",
+          "checksum": "SHA-256:cf5a5fcc1975705c214081dfcfbd05d381f6597b74745e86d41bb8908366ea07",
           "size": "15005",
           "boards": [
             {"name": "My Board"},
