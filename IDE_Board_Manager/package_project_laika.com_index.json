@@ -17,7 +17,7 @@
           "help": {
             "online": "http://www.project-laika.com/forum"
           },
-          "url": "https://github.com/eightdog/laika_arduino/blob/master/IDE_Board_Manager/laika_boards.zip",
+          "url": "https://raw.githubusercontent.com/eightdog/laika_arduino/master/IDE_Board_Manager/package_project_laika.com_index.json",
           "archiveFileName": "laika_boards.zip",
           "checksum": "SHA-256:cf5a5fcc1975705c214081dfcfbd05d381f6597b74745e86d41bb8908366ea07",
           "size": "2348",
