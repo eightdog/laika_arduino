@@ -10,7 +10,7 @@
       },
       "platforms": [
         {
-          "name": "explorer",
+          "name": "Laika Explorer",
           "architecture": "avr",
           "version": "1.0.0",
           "category": "Contributed",
