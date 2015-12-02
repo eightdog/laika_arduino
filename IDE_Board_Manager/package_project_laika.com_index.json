@@ -19,8 +19,8 @@
           },
           "url": "https://github.com/eightdog/laika_arduino/releases/download/v0.0.1/laika_boards.zip",
           "archiveFileName": "laika_boards.zip",
-          "checksum": "SHA-256:cd7e9df29212387486adc78f859d73dd13523b353697eb384f06f619796663e3",
-          "size": "5075",
+          "checksum": "SHA-256:1463efdcfd186bfeaaac20ffa6943f4e55083c5fd52ec8ffd0bfd592eb0614ae",
+          "size": "4450",
           "boards": [
             {"name": "Explorer"}
           ],
