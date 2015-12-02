@@ -17,7 +17,7 @@
           "help": {
             "online": "http://www.project-laika.com/forum"
           },
-          "url": "https://github.com/eightdog/laika_arduino/releases/download/v0.0.1/laika_boards.zip",
+          "url": "https://github.com/eightdog/laika_arduino/releases/download/v0.0.2/laika_boards.zip",
           "archiveFileName": "laika_boards.zip",
           "checksum": "SHA-256:1463efdcfd186bfeaaac20ffa6943f4e55083c5fd52ec8ffd0bfd592eb0614ae",
           "size": "4450",
