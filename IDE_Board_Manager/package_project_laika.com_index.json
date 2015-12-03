@@ -17,10 +17,10 @@
           "help": {
             "online": "http://www.project-laika.com/forum"
           },
-          "url": "https://github.com/eightdog/laika_arduino/releases/download/v0.0.1/laika_boards.zip",
+          "url": "https://github.com/eightdog/laika_arduino/releases/download/v1.0.0/laika_boards.zip",
           "archiveFileName": "laika_boards.zip",
-          "checksum": "SHA-256:cd7e9df29212387486adc78f859d73dd13523b353697eb384f06f619796663e3",
-          "size": "5075",
+          "checksum": "SHA-256:2acf8089a8840cd8c5cb521c4f3f7e552bdeaa355d65be9f8fc0b46198da1a9b",
+          "size": "4450",
           "boards": [
             {"name": "Explorer"}
           ],
@@ -42,3 +42,4 @@
     }
   ]
 }
+
