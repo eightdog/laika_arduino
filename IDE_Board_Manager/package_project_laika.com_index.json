@@ -12,20 +12,14 @@
         {
           "name": "Laika",
           "architecture": "avr",
-          "version": "1.0.1",
+          "version": "1.0.0",
           "category": "Contributed",
           "help": {
             "online": "http://www.project-laika.com/forum"
           },
-<<<<<<< HEAD
           "url": "https://github.com/eightdog/laika_arduino/releases/download/v1.0.0/laika_boards.zip",
           "archiveFileName": "laika_boards.zip",
-          "checksum": "SHA-256:2acf8089a8840cd8c5cb521c4f3f7e552bdeaa355d65be9f8fc0b46198da1a9b",
-=======
-          "url": "https://github.com/eightdog/laika_arduino/releases/download/v0.0.2/laika_boards.zip",
-          "archiveFileName": "laika_boards.zip",
           "checksum": "SHA-256:1463efdcfd186bfeaaac20ffa6943f4e55083c5fd52ec8ffd0bfd592eb0614ae",
->>>>>>> origin/master
           "size": "4450",
           "boards": [
             {"name": "Explorer"}
