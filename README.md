@@ -1,6 +1,8 @@
 # laika_arduino
 Arduino Board Manager Files
 
+See www.project-laika.com for more information.
+
 How to run Arduino on your Laika Explorer.
 
 1) Having purchased the Laika Explorer Arduino kit you will have an Explorer board, an Arduino adaptor and the Arduino bootloader pre-installed.
